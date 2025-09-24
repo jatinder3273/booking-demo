@@ -1,6 +1,5 @@
 node_modules
 /backend/node_modules
-/backend/build
-/backend/dist
-/backend/public
 /backend/.env
+/fontend/.env
+/fontend/node_modules
